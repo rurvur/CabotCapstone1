@@ -20,7 +20,7 @@ In the field of machine translation research, by virtue of the range of possible
 
 ## Instructions
 
-The source code can be found in the FinalDemoSourceCode.ipynb. You'll need to import the two files in the data subfolder if you want to run the code in there though, just importing them on Google Colab or another virtual environment that allows for data imports should be enough.
+The source code can be found in the FinalDemoSourceCode.ipynb. You'll need to import the two files in the data subfolder if you want to run the code in there though, just importing them on Google Colab or another virtual environment that allows for data imports should be enough. The subfolder is compressed as the training data is too large to commit to Github otherwise, so make sure you unzip the folder first!
 
 Since this is a research project, the source code is moreso meant to be looked at than create a full user experience. I've included markdown logs to help explain the process, similar to my demo presentation. The emphasis here is moreso on the report, where I go over the long, bumpy process of this undergoing in more detail, and go over some of my findings and propositions. (This is also why the repository lacks a user manual, there isn't a lot to say about how to "use" my research, especially given the limited results.)
 
